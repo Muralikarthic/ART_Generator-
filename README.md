@@ -1,1 +1,1 @@
-# ART_Generator-
+# text2art-web
